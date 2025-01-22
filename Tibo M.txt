@@ -5,10 +5,7 @@ en plots stond hij in een middeleeuws kasteel,
 met een ridder die hem aankeek alsof hij van een andere planeet kwam."
 
 Dit is een extra test 3
-                           O         ____        ____
-verhaal klopt totaal niet /|\       /    \      /    \       /
-                           |        |    |      |    |     -------/
-                          / \       |    |      |    |       \  
-                                    |    |      |    | 
-                                    |    |      |    | 
-                                    |    |      |    | 
+                           O
+verhaal klopt totaal niet /|\
+                           |
+                          / \
