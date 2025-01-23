@@ -9,5 +9,3 @@ Dit is een extra test
 verhaal klopt totaal niet /|\
                            |
                           / \
-
-                          test
